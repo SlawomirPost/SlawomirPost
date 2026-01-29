@@ -1,16 +1,8 @@
 # Principal projektu Jarvis
 
-Buduję z AI asystenta, który pamięta, adaptuje się i działa przez rozmowę.
+Buduję z AI osobistego asystenta — **concierge prywatnego, zawodowego i projektowego**.
 
 **Człowiek + AI = Team**
-
-## Co badamy
-
-🔬 Jak AI może wspierać:
-- **Naukowców** — śledzenie źródeł, bibliografie, organizacja badań
-- **Osoby neuroatypowe** — zewnętrzna pamięć robocza, "parking dla myśli"
-- **Seniorów** — cierpliwy asystent, powtarzalność bez frustracji
-- **Twórców i wizjonerów** — totalne gromadzenie wiedzy: co, gdzie, jak połączyć
 
 ## Jak to działa
 
@@ -18,6 +10,14 @@ Buduję z AI asystenta, który pamięta, adaptuje się i działa przez rozmowę.
 🧠 **Pamięć między sesjami** — Jarvis pamięta kontekst, Ty kontynuujesz
 🎯 **Trener rozmów** — np. konwencja NVC, refleksja, journaling
 🔗 **Concierge wiedzy** — łączy wątki, sugeruje powiązania
+
+## Potencjał dla innych
+
+🔬 Badam, czy mechanizmy Jarvisa mogą wspierać także:
+- **Naukowców** — śledzenie źródeł, bibliografie, organizacja badań
+- **Osoby neuroatypowe** — zewnętrzna pamięć robocza, "parking dla myśli"
+- **Seniorów** — cierpliwy asystent, powtarzalność bez frustracji
+- **Twórców i wizjonerów** — totalne gromadzenie wiedzy: co, gdzie, jak połączyć
 
 ## Otwarte
 
