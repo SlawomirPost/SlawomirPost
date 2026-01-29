@@ -1,6 +1,7 @@
 # Principal projektu Jarvis
 
 Buduję z AI osobistego asystenta — **concierge prywatnego, zawodowego i projektowego**.
+Nie jestem programistą. Jarvis powstaje przez rozmowę.
 
 **Człowiek + AI = Team**
 
