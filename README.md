@@ -7,10 +7,15 @@ Nie jestem programistą. Jarvis powstaje przez rozmowę.
 
 ## Jak to działa
 
-💬 **Sprawczość słowa** — mówisz "zanotuj X" i X trafia gdzie trzeba
-🧠 **Pamięć między sesjami** — Jarvis pamięta kontekst, Ty kontynuujesz
-🎯 **Trener rozmów** — np. konwencja NVC, refleksja, journaling
-🔗 **Concierge wiedzy** — łączy wątki, sugeruje powiązania
+💬 **Linguistic OS** — słowa budują workflow, w tym warunkowe i pętle
+🧠 **Totalna Pamięć** — liniowy dostęp do całej historii, żadna wiedza nie ginie
+🎯 **Sprawczość słowa** — mówisz "zanotuj X" i X trafia gdzie trzeba
+🔗 **Concierge wiedzy** — łączy wątki, sugeruje powiązania, wyprzedza potrzeby
+
+## Fundament
+
+**Linguistic OS** — system operacyjny oparty o formalizm werbalny (inspiracja prawem rzymskim).
+LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co zrobisz — zrób."
 
 ## Potencjał dla innych
 
@@ -19,6 +24,13 @@ Nie jestem programistą. Jarvis powstaje przez rozmowę.
 - **Osoby neuroatypowe** — zewnętrzna pamięć robocza, "parking dla myśli"
 - **Seniorów** — cierpliwy asystent, powtarzalność bez frustracji
 - **Twórców i wizjonerów** — totalne gromadzenie wiedzy: co, gdzie, jak połączyć
+- **Non-technical builders** — budowanie słowem, bez programowania
+
+## Stan projektu (17 dni)
+
+```
+173 zetteli | 50+ sesji | 47+ procedur | 12 koncepcji architektonicznych
+```
 
 ## Otwarte
 
@@ -26,6 +38,6 @@ Nie jestem programistą. Jarvis powstaje przez rozmowę.
 
 ---
 
-PRINCE2 Agile | NLP Master | Zettelkasten
+PRINCE2 Agile | NLP Master | Zettelkasten | Linguistic OS
 
 > *„Mówisz — dzieje się."*
