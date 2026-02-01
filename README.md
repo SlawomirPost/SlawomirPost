@@ -1,43 +1,45 @@
-# Principal projektu Jarvis
+# Principal of the Jarvis Project
 
-Buduję z AI osobistego asystenta — **concierge prywatnego, zawodowego i projektowego**.
-Nie jestem programistą. Jarvis powstaje przez rozmowę.
+🇵🇱 [Polska wersja](PL/README.md)
 
-**Człowiek + AI = Team**
+Building a personal AI assistant with AI — **a private, professional, and project concierge**.
+I'm not a programmer. Jarvis is built through conversation.
 
-## Jak to działa
+**Human + AI = Team**
 
-💬 **Linguistic OS** — słowa budują workflow, w tym warunkowe i pętle
-🧠 **Totalna Pamięć** — liniowy dostęp do całej historii, żadna wiedza nie ginie
-🎯 **Sprawczość słowa** — mówisz "zanotuj X" i X trafia gdzie trzeba
-🔗 **Concierge wiedzy** — łączy wątki, sugeruje powiązania, wyprzedza potrzeby
+## How It Works
 
-## Fundament
+💬 **Linguistic OS** — words build workflows, including conditionals and loops
+🧠 **Total Memory** — linear access to entire conversation history, no knowledge is lost
+🎯 **Word Agency** — say "note X" and X goes where it should
+🔗 **Knowledge Concierge** — connects threads, suggests relationships, anticipates needs
 
-**Linguistic OS** — system operacyjny oparty o formalizm werbalny (inspiracja prawem rzymskim).
-LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co zrobisz — zrób."
+## Foundation
 
-## Potencjał dla innych
+**Linguistic OS** — an operating system based on verbal formalism (inspired by Roman law).
+LLM trained on the language of people speaking truth about their intentions. "Say what you'll do — do it."
 
-🔬 Badam, czy mechanizmy Jarvisa mogą wspierać także:
-- **Naukowców** — śledzenie źródeł, bibliografie, organizacja badań
-- **Osoby neuroatypowe** — zewnętrzna pamięć robocza, "parking dla myśli"
-- **Seniorów** — cierpliwy asystent, powtarzalność bez frustracji
-- **Twórców i wizjonerów** — totalne gromadzenie wiedzy: co, gdzie, jak połączyć
-- **Non-technical builders** — budowanie słowem, bez programowania
+## Potential for Others
 
-## Stan projektu (17 dni)
+🔬 Researching whether Jarvis mechanisms can also support:
+- **Researchers** — source tracking, bibliographies, organizing studies
+- **Neurodiverse individuals** — external working memory, "thought parking"
+- **Seniors** — patient assistant, repeatability without frustration
+- **Creators and visionaries** — total knowledge accumulation: what, where, how to connect
+- **Non-technical builders** — building with words, no programming
+
+## Project Status (17 days)
 
 ```
-173 zetteli | 50+ sesji | 47+ procedur | 12 koncepcji architektonicznych
+173 zettels | 50+ sessions | 47+ procedures | 12 architectural concepts
 ```
 
-## Otwarte
+## Open Source
 
-📂 [jarvis-research-showcase](https://github.com/SlawomirPost/jarvis-research-showcase) — metodologia (CC-BY-4.0)
+📂 [jarvis-research-showcase](https://github.com/SlawomirPost/jarvis-research-showcase) — methodology (CC-BY-4.0)
 
 ---
 
 PRINCE2 Agile | NLP Master | Zettelkasten | Linguistic OS
 
-> *„Mówisz — dzieje się."*
+> *"You speak — it happens."*
