@@ -45,6 +45,7 @@ LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co z
 ## Otwarte
 
 📂 [jarvis-research-showcase](https://github.com/SlawomirPost/jarvis-research-showcase) — metodologia (CC-BY-4.0)
+📋 [Live Roadmap](https://github.com/users/SlawomirPost/projects/5) — co jest w trakcie
 
 ---
 
