@@ -12,7 +12,7 @@ I'm not a programmer. Jarvis is built through conversation.
 💬 **Linguistic OS** — words build workflows, including conditionals and loops
 🧠 **Total Memory** — linear access to entire conversation history, no knowledge is lost
 🎯 **Word Agency** — say "note X" and X goes where it should
-🔗 **Knowledge Concierge** — connects threads, suggests relationships, anticipates needs
+🔗 **Knowledge Concierge** — connects threads, suggests relationhips, anticipates needs
 
 ## Foundation
 
@@ -45,6 +45,7 @@ LLM trained on the language of people speaking truth about their intentions. "Sa
 ## Open Source
 
 📂 [jarvis-research-showcase](https://github.com/SlawomirPost/jarvis-research-showcase) — methodology (CC-BY-4.0)
+📋 [Live Roadmap](https://github.com/users/SlawomirPost/projects/5) — see what's in progress
 
 ---
 
