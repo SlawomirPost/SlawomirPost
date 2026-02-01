@@ -2,7 +2,7 @@
 
 🇵🇱 [Polska wersja](PL/README.md)
 
-Building a personal AI assistant with AI — **a private, professional, and project concierge**.
+Building a personal AI assistant with AI — **a private, professional, project, scientific, and creative concierge**.
 I'm not a programmer. Jarvis is built through conversation.
 
 **Human + AI = Team**
@@ -22,8 +22,8 @@ LLM trained on the language of people speaking truth about their intentions. "Sa
 ## Potential for Others
 
 🔬 Researching whether Jarvis mechanisms can also support:
-- **Researchers** — source tracking, bibliographies, organizing studies
 - **Neurodiverse individuals** — external working memory, "thought parking"
+- **Designers & Researchers** — source tracking, bibliographies, organizing studies
 - **Seniors** — patient assistant, repeatability without frustration
 - **Creators and visionaries** — total knowledge accumulation: what, where, how to connect
 - **Non-technical builders** — building with words, no programming

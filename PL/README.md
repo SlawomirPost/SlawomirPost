@@ -2,7 +2,7 @@
 
 🇬🇧 [English version](../README.md)
 
-Buduję z AI osobistego asystenta — **concierge prywatnego, zawodowego i projektowego**.
+Buduję z AI osobistego asystenta — **concierge prywatnego, zawodowego, projektowego, naukowego i twórczego**.
 Nie jestem programistą. Jarvis powstaje przez rozmowę.
 
 **Człowiek + AI = Team**
@@ -22,8 +22,8 @@ LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co z
 ## Potencjał dla innych
 
 🔬 Badam, czy mechanizmy Jarvisa mogą wspierać także:
-- **Naukowców** — śledzenie źródeł, bibliografie, organizacja badań
 - **Osoby neuroatypowe** — zewnętrzna pamięć robocza, "parking dla myśli"
+- **Projektantów i naukowców** — śledzenie źródeł, bibliografie, organizacja badań
 - **Seniorów** — cierpliwy asystent, powtarzalność bez frustracji
 - **Twórców i wizjonerów** — totalne gromadzenie wiedzy: co, gdzie, jak połączyć
 - **Non-technical builders** — budowanie słowem, bez programowania
