@@ -24,15 +24,23 @@ LLM trained on the language of people speaking truth about their intentions. "Sa
 🔬 Researching whether Jarvis mechanisms can also support:
 - **Neurodiverse individuals** — external working memory, "thought parking"
 - **Designers & Researchers** — source tracking, bibliographies, organizing studies
-- **Seniors** — patient assistant, repeatability without frustration
+- **Senior companion** — patient assistant, never frustrated by repetition
 - **Creators and visionaries** — total knowledge accumulation: what, where, how to connect
 - **Non-technical builders** — building with words, no programming
 
-## Project Status (17 days)
+> **Living Lab:** The founder is neurodiverse (ADHD) and uses Jarvis daily — first-person validation of cognitive support mechanisms.
 
-```
-173 zettels | 50+ sessions | 47+ procedures | 12 architectural concepts
-```
+## Project Scale
+
+*All metrics as of 1 February 2026 (Day 17)*
+
+| Metric | Value |
+|--------|-------|
+| Atomic knowledge | 170+ zettels |
+| Tracked sessions | 50+ |
+| Procedures | 45+ |
+| Tokens consumed | 3.8B+ |
+| Cache efficiency | 92%+ |
 
 ## Open Source
 

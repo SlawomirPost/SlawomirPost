@@ -24,15 +24,23 @@ LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co z
 🔬 Badam, czy mechanizmy Jarvisa mogą wspierać także:
 - **Osoby neuroatypowe** — zewnętrzna pamięć robocza, "parking dla myśli"
 - **Projektantów i naukowców** — śledzenie źródeł, bibliografie, organizacja badań
-- **Seniorów** — cierpliwy asystent, powtarzalność bez frustracji
+- **Towarzysz seniora** — cierpliwy asystent, zawsze chętny powtórzyć
 - **Twórców i wizjonerów** — totalne gromadzenie wiedzy: co, gdzie, jak połączyć
 - **Non-technical builders** — budowanie słowem, bez programowania
 
-## Stan projektu (17 dni)
+> **Living Lab:** Twórca jest neuroatypowy (ADHD) i używa Jarvisa codziennie — pierwszoosobowa walidacja mechanizmów wsparcia poznawczego.
 
-```
-173 zetteli | 50+ sesji | 47+ procedur | 12 koncepcji architektonicznych
-```
+## Skala projektu
+
+*Wszystkie metryki na dzień 1 lutego 2026 (Dzień 17)*
+
+| Metryka | Wartość |
+|---------|---------|
+| Atomowa wiedza | 170+ zetteli |
+| Śledzone sesje | 50+ |
+| Procedury | 45+ |
+| Zużyte tokeny | 3,8B+ |
+| Efektywność cache | 92%+ |
 
 ## Otwarte
 
