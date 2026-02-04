@@ -13,6 +13,7 @@ Nie jestem programistą. Jarvis powstaje przez rozmowę.
 🧠 **Totalna Pamięć** — liniowy dostęp do całej historii, żadna wiedza nie ginie
 🎯 **Sprawczość słowa** — mówisz "zanotuj X" i X trafia gdzie trzeba
 🔗 **Concierge wiedzy** — łączy wątki, sugeruje powiązania, wyprzedza potrzeby
+🐳 **Multi-Agent Deployment** — agenci w Docker z per-rolowym bootstrapem
 
 ## Fundament
 
@@ -32,14 +33,15 @@ LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co z
 
 ## Skala projektu
 
-*Wszystkie metryki na dzień 1 lutego 2026 (Dzień 17)*
+*Wszystkie metryki na dzień 4 lutego 2026 (Dzień 20)*
 
 | Metryka | Wartość |
 |---------|---------|
-| Atomowa wiedza | 170+ zetteli |
-| Śledzone sesje | 50+ |
-| Procedury | 45+ |
-| Zużyte tokeny | 3,8B+ |
+| Atomowa wiedza | 200+ zetteli |
+| Śledzone sesje | 55+ |
+| Procedury | 50+ |
+| Persony AI | 21 |
+| Zużyte tokeny | 4,5B+ |
 | Efektywność cache | 92%+ |
 
 ## Otwarte

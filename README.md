@@ -12,7 +12,8 @@ I'm not a programmer. Jarvis is built through conversation.
 💬 **Linguistic OS** — words build workflows, including conditionals and loops
 🧠 **Total Memory** — linear access to entire conversation history, no knowledge is lost
 🎯 **Word Agency** — say "note X" and X goes where it should
-🔗 **Knowledge Concierge** — connects threads, suggests relationhips, anticipates needs
+🔗 **Knowledge Concierge** — connects threads, suggests relationships, anticipates needs
+🐳 **Multi-Agent Deployment** — Docker-based agents with per-role bootstrapping
 
 ## Foundation
 
@@ -32,14 +33,15 @@ LLM trained on the language of people speaking truth about their intentions. "Sa
 
 ## Project Scale
 
-*All metrics as of 1 February 2026 (Day 17)*
+*All metrics as of 4 February 2026 (Day 20)*
 
 | Metric | Value |
 |--------|-------|
-| Atomic knowledge | 170+ zettels |
-| Tracked sessions | 50+ |
-| Procedures | 45+ |
-| Tokens consumed | 3.8B+ |
+| Atomic knowledge | 200+ zettels |
+| Tracked sessions | 55+ |
+| Procedures | 50+ |
+| AI Personas | 21 |
+| Tokens consumed | 4.5B+ |
 | Cache efficiency | 92%+ |
 
 ## Open Source
