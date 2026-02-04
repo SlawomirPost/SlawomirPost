@@ -39,7 +39,7 @@ LLM wytrenowany na języku ludzi mówiących prawdę o intencjach. "Powiedz co z
 |---------|---------|
 | Atomowa wiedza | 200+ zetteli |
 | Śledzone sesje | 55+ |
-| Procedury | 50+ |
+| Procedury | 34+ |
 | Persony AI | 21 |
 | Zużyte tokeny | 4,5B+ |
 | Efektywność cache | 92%+ |

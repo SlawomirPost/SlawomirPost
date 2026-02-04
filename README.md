@@ -39,7 +39,7 @@ LLM trained on the language of people speaking truth about their intentions. "Sa
 |--------|-------|
 | Atomic knowledge | 200+ zettels |
 | Tracked sessions | 55+ |
-| Procedures | 50+ |
+| Procedures | 34+ |
 | AI Personas | 21 |
 | Tokens consumed | 4.5B+ |
 | Cache efficiency | 92%+ |
