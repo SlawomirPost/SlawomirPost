@@ -33,16 +33,18 @@ LLM trained on the language of people speaking truth about their intentions. "Sa
 
 ## Project Scale
 
-*All metrics as of 4 February 2026 (Day 20)*
+*All metrics as of 8 February 2026 (Day 24)*
 
 | Metric | Value |
 |--------|-------|
-| Atomic knowledge | 200+ zettels |
-| Tracked sessions | 55+ |
-| Procedures | 34+ |
-| AI Personas | 21 |
-| Tokens consumed | 4.5B+ |
-| Cache efficiency | 92%+ |
+| Atomic knowledge | 222 zettels |
+| Tracked sessions | 50 |
+| Procedures | 43 formalized |
+| AI Personas | 20 |
+| Formal decisions | 29 (ADR format) |
+| REWIZJA audits | 28 |
+| Docker stacks | 3 |
+| Security model | 7-level (Bell-LaPadula) |
 
 ## Open Source
 
